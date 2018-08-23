@@ -1,0 +1,75 @@
+Hello World
+
+The Hello World project is a time-honored tradition in computer programming.It is a simple exercise that gets you started when learning something new.Let's get started with Github!
+
+Hello World项目是计算机编程的一个悠久传统。它是一个简单的练习，让你在学习新东西时开始。让我们从Github开始！
+
+You'll learn how to:
+
+    Create and use a repository
+    Start and manage a new branch
+    Make changes to a file and push them to GitHub as commits
+    Open and merge a pull request
+
+你将学会如何：
+
+    创建和使用存储库
+    启动和管理一个新的分支
+    对文件进行更改并将它们作为提交提交到GITHUB
+    打开合并请求
+
+What is GitHub?
+
+GitHub is a code hosting platform for version control and collaboration.It lets you and others work together on projects from anywhere.
+
+This tutorial teaches you GitHub essentials like repositores,branches,commits,and Pull Requests.You'll create your own Hello World Respository and learn GitHub's Pull Resquest workflow,a popular way to create and review code.
+
+No coding necessary
+
+To complete This tutorial,you need a GitHub.com account and Internet access.You don't need to know how to code,use the command line,or install Git(the version control software GitHub is bulit on).
+
+GitHub是一个用于版本控制和协作的代码托管平台，它允许您和其他人一起处理来自任何地方的项目。
+
+本教程教您GitHub的基本知识，如存储库、分支、提交和拉请求。您将创建自己的Hello World Respository，并学习GitHub的Pull Resquest工作流，这是一种创建和审查代码的流行方法。
+
+无需编码
+要完成本教程，您需要一个GitHub.com帐户和Internet访问。您不需要知道如何编码、使用命令行或安装Git（构建版本控制软件GitHub）。
+
+Tip:Open this guide in a separate browser window(or tab) so you can see it while you complete the steps in the tutorial.
+
+提示：在一个单独的浏览器窗口（或选项卡）打开这个指南，这样你可以在完成教程中的步骤时看到它。
+
+Step 1: Create a Repository
+
+A repository is usually used to organizee a single project.Respositories can contain folders and files,images,videos,spreadsheets,and data sets-anything your project needs.We recommend including a README,or a file with information about your project.GitHub makes it easy to add one at the same time your create your new repository.It also offers other common options such as a license file.
+
+Your hello-world repository can be a place where you store ideas,resources,or even share and discuss things with others.
+
+步骤1：创建存储库
+
+存储库通常用于组织单个项目。Respository可以包含文件夹和文件、图像、视频、电子表格和数据集——任何项目需要的内容。我们建议包括README或包含项目信息的文件。创建新的存储库。它还提供其他常见选项，如许可证文件。
+
+您的Hello World RealStk可以是一个存储想法、资源、甚至与他人分享和讨论事物的地方。
+
+To create a new repository
+
+    In the upper right corner,next to your avatar or identicon,click + and then select New repository.
+    Name your repository hello-world.
+    Write a short description.
+    Select Initialize this repository with a README.
+
+ 创建新的存储库
+
+    在右上角，紧邻你的化身或恒等，点击+然后选择新的储存库。
+    命名您的存储库Hello World。
+    写一个简短的描述。
+    选择使用自述文件初始化此存储库。
+
+
+
+
+ 
+
+ 
+
+ 
